@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Immanuel Samuel
-- 👀 I’m interested in Backend development and C++ programming 
+- 👀 I’m interested in Backend development
+- 👀 Currently learning mobile app development
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me: immanueliniobong@gmail.com or Whatsapp : +234(0)8060918471
+- 📫 How to reach me: immanueliniobong@gmail.com or Whatsapp : +234(0)8060918471 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:  I enjoy gaming and cooking in my free time.
+- ⚡ Fun fact:I love anime,gaming and cooking.
 
 
